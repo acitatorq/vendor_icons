@@ -1,0 +1,66 @@
+Received: from LV3P222MB0913.NAMP222.PROD.OUTLOOK.COM (2603:10b6:408:21f::22)
+ by DS7P222MB0590.NAMP222.PROD.OUTLOOK.COM with HTTPS; Wed, 21 Feb 2024
+ 16:39:50 +0000
+Received: from LV8P222MB1124.NAMP222.PROD.OUTLOOK.COM (2603:10b6:408:1bd::15)
+ by LV3P222MB0913.NAMP222.PROD.OUTLOOK.COM (2603:10b6:408:21f::22) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7316.21; Wed, 21 Feb
+ 2024 16:39:46 +0000
+Received: from LV8P222MB1124.NAMP222.PROD.OUTLOOK.COM
+ ([fe80::ef91:959c:aabd:b9b4]) by LV8P222MB1124.NAMP222.PROD.OUTLOOK.COM
+ ([fe80::ef91:959c:aabd:b9b4%5]) with mapi id 15.20.7292.036; Wed, 21 Feb 2024
+ 16:39:46 +0000
+From: Lego soc <lego_soc@torqlab.net>
+To: alberto cita <alberto.cita@torqlab.net>
+Subject: [Case 934]::NEW::Confirmed Crowdstrike Detection - Malicious File -
+ Hostname albertocita-eu-mac
+Thread-Topic: [Case 934]::NEW::Confirmed Crowdstrike Detection - Malicious
+ File - Hostname albertocita-eu-mac
+Thread-Index: AQHaZOSUQZOltPzdgkSmeiOXOOcCIQ==
+Date: Wed, 21 Feb 2024 16:39:46 +0000
+Message-ID:
+	<LV8P222MB1124D90FE8781A89B32D334BFD572@LV8P222MB1124.NAMP222.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: LV8P222MB1124.NAMP222.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	ebec81d0-48c5-49db-1020-08dc32fbb6f0
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	FREQ0OvWaV/YWgF+uuB0lGfdfcqXKP3bvg7AIs4lypXFHjxeZImj72HTDGxh8Ledccupg12yI/EKaDpjDYrl7ipbvptxQGSNnjbkWIR1dh2KZUT97sJwOBAvDr4mrSXeqaaHZJwzPIN4Nhp1hg2K5FGoRu+kliT5Ms8lBM2+GxV9TxPWzD8MZs8iP44cMBKc/we3HFkyAciaeTk1Kzkiv3+TzWuIEWnJDxpY5t8nU2niJNqeEmoi5g0Qg5RI7JGpYYN8v2KBpPESPLCetEQjWrp4d4Y5Sx7XABRFwE53QhwV4DnEOjALyGVmNDPFxG2g9EuqMymWg7YefvOi92waJ9ygrRiCvj4OBlFS8DKzakJexYHsbcXd/TJCFXIhLZh4uqDlF0hDsYGE97noF/2LRMg8Hu35NAHXl2m0qkPSyk9CfY6DRsAkrScF5RqdAcmjSVpT+nPJNWuufU8u5o0DYUj0vQqdmJJYmKU9wcUERIjAISAZUcYWKqqHlBB63GadV90050AMv1dPB+36TJhHG+IcIJ3YNjLhKO8KsgytaPDkS/IflhMoC/X4WIpnNgagP/7LWmI17R26a9YgAoKxS8HDAKmYrzWJ77giKRl1T2l+GsVKvB6LKkaiRCQKT+98veXv003C+G9I88BfQfOmQeiAePVWCQQe5nlPdUL5Uci/72BBhXZe2qk0xT9BBrkm1aiL/eO4LeuKLIBeHVHKfStanTItKw/WE8Hgf251+rHX5tcBciIdmuJRfCt/gwot
+Content-Type: multipart/alternative;
+	boundary="_000_LV8P222MB1124D90FE8781A89B32D334BFD572LV8P222MB1124NAMP_"
+MIME-Version: 1.0
+
+--_000_LV8P222MB1124D90FE8781A89B32D334BFD572LV8P222MB1124NAMP_
+Content-Type: text/plain; charset="us-ascii"
+
+A new case has been created and assigned to you.
+
+Case Details
+
+Case ID:934 <https://app.torq.io/cases?account=albertoc&preset=All%20cases&caseId=934&expanded=true&workspace=ee1071e4-1729-4e4c-a080-364f33e3c009>
+
+--_000_LV8P222MB1124D90FE8781A89B32D334BFD572LV8P222MB1124NAMP_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<p><strong>A new case has been created and assigned to you.</strong></p>
+<p>Case Details</p>
+<p><a href="https://app.torq.io/cases?account=albertoc&amp;preset=All%20cases&amp;caseId=934&amp;expanded=true&amp;workspace=ee1071e4-1729-4e4c-a080-364f33e3c009" target="_blank">Case ID:934&nbsp;</a></p>
+</body>
+</html>
+
+--_000_LV8P222MB1124D90FE8781A89B32D334BFD572LV8P222MB1124NAMP_--
